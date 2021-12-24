@@ -13,11 +13,11 @@ Latest version of Java
 Maven version 3.6.3  
 IntelliJ IDEA Community Edition(recommended IDE)  
 Postman(API testing)  
-Lastest version of Docker  
+Latest version of Docker  
 
 ### Datebase visualizing
-- Lastest version of MongoCompass  
-- Lastest version of pgAdmin4  
+- Latest version of MongoCompass  
+- Latest version of pgAdmin4  
 - Latest version of Neo4j Desktop 
 
 ### Setup
