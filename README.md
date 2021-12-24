@@ -30,14 +30,15 @@ Lastest version of Docker
     docker-compose up --build -d
     ```
 3. Make sure project SDK on IDE is JDK Version 16.0.1  
+4. Configure build with docker and run
 
 
 
 # DATABASE REQUIREMENTS
 
-MongoDB
-pgAdmin4
-Neo4j Desktop
+MongoDB  
+pgAdmin4  
+Neo4j Desktop  
 
 
 # JUnit Testing
